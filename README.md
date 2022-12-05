@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Imasandi
-- 👀 I’m interested in python and linux
+- 👀 I’m interested in python,linux and Networking
 - 🌱 I’m currently learning computer science and technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
