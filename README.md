@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,linux and Networking
 - 🌱 I’m currently learning computer science and technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : imashasandi4@gmail.com
 
 <!---
 Imasandi/Imasandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
