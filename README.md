@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imasandi
-- 👀 I’m interested in python,linux and Networking
-- 🌱 I’m currently learning computer science and technology
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python,linux and Networking,..
+- 🌱 I’m currently studying Network Security
+- 💞️ I’m looking to collaborate on Networking and security, Anomaly detection in time-series.
 - 📫 How to reach me : imashasandi4@gmail.com
 
 <!---
