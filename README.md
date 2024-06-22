@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imasandi
-- 👀 I’m interested in Computer Science, python,linux and Networking,..
-- 🌱 I’m currently studying Network Security
-- 💞️ I’m looking to collaborate on Networking and security, Anomaly detection in time-series.
+- 👀 I’m interested in Computer Science, python,Machine Leaarning, linux and Networking,..
+- 🌱 I’m currently studying Network Security and information law
+- 💞️ I’m looking to collaborate on Networking security, Anomaly detection in time-series of Autonomous network terminal devices.
 - 📫 How to reach me : imashasandi4@gmail.com
 
 <!---
