@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Imasandi
-- 👀 I’m interested in Computer Science, python,Machine Learning, linux and Networking,..
+- 👀 I’m interested in Cyber Security and Law, python,Machine Learning, linux and Networking,..
 - 🌱 I’m currently studying Network Security and information law
 - 💞️ I’m looking to collaborate on Network security, Anomaly detection in time-series of Autonomous network terminal devices.
 - 📫 How to reach me : imashasandi4@gmail.com
